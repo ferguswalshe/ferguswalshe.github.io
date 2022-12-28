@@ -2,28 +2,32 @@
 
 /* FONTS: */
 
-h1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: blueviolet;
+h1, h3, p{
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+    background-color: rgba(188, 186, 186, 0.92);
+    text-align: center;
 }
 
 p{
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     font-size: larger;
     font-variant: small-caps;
-    color:red;
-    background-color: white;
+    color:rgb(0, 0, 0);
+    background-color: rgba(188, 186, 186, 0.92);
+    text-align: center;
 }
 
 
 /* AREAS OF THE PAGE */
 
 body{
-    background-color: blue;
+    background-color: rgba(220, 236, 239, 0.92);
 }
 
 .wrap{
-    background-color: aqua;
+    background-color: rgba(233, 238, 240, 0.92);
+    text-align: center;
 }
 
 
@@ -41,32 +45,69 @@ a{
 
 
 #link1{
-    border-color:pink;
-    border-style:dashed
+    background-color: rgb(233, 233, 224);
+    
+    border:2px;
+    border-color:rgb(218, 212, 212);
+    border-style: solid;
+    border-radius: 5px;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:700;
+    color:grey;
+    
+    text-decoration: none;
+}
+
+#link1:hover{
+
+    background-color: rgba(200, 200, 200, .8);
+
+    border:2px;
+    border-color:rgb(218, 212, 212);
+    border-style: solid;
+    border-radius: 5px;
+    
 }
 
 #link2{
+    background-color: rgb(233, 233, 224);
+    
     border:2px;
-    border-color:black;
+    border-color:rgb(218, 212, 212);
     border-style: solid;
-
     border-radius: 5px;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:700;
+    color:grey;
+    
+    text-decoration: none;
 
 }
 
-#link3{
-    background-color: rgba(0, 47, 167, .5);
+#link2:hover{
 
-    padding:20px;
+    background-color: rgba(200, 200, 200, .8);
+
+    border:2px;
+    border-color:rgb(218, 212, 212);
+    border-style: solid;
+    border-radius: 5px;
+    
+}
+
+#link3{
+    background-color:  rgb(233, 233, 224);
     
     border:2px;
-    border-color:grey;
+    border-color:rgb(218, 212, 212);
     border-style: solid;
-    border-radius: 10px;
+    border-radius: 5px;
 
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Times New Roman', Times, serif;
     font-weight:700;
-    color:white;
+    color:grey;
     
     text-decoration: none;
     
@@ -74,35 +115,41 @@ a{
 
 #link3:hover{
 
-    background-color: rgba(0, 47, 167, .8);
+    background-color: rgba(200, 200, 200, .8);
 
     border:2px;
-    border-color:yellow;
+    border-color:rgb(218, 212, 212);
     border-style: solid;
+    border-radius: 5px;
     
 }
 
 
 #link4{
-    background-color: yellow;
-
-    padding:20px;
+    background-color: rgb(233, 233, 224);
     
-    border:20px;
-    border-color:black;
+    border:2px;
+    border-color:rgb(218, 212, 212);
     border-style: solid;
-    border-radius: 10px;
+    border-radius: 5px;
 
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Times New Roman', Times, serif;
     font-weight:700;
     color:grey;
     
     text-decoration: none;
 
-    animation: border-pulsate1 4s infinite;
 }
 
+#link4:hover{
 
+    background-color: rgba(200, 200, 200, .8);
+
+    border:2px;
+    border-color:rgb(218, 212, 212);
+    border-style: solid;
+    border-radius: 5px;
+}
 
 
 
@@ -127,9 +174,5 @@ a{
 
   @keyframes myAnimation {
     0%   {border-color: #22e68b; background-color: black}      
-    50%  {border-color: black; background-color:yellow}
-    
+    50%  {border-color: black; background-color:yellow} 
   }
-/* CODE FOR PUSLING BORDERS */
-  
-
