@@ -1,11 +1,11 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   
-    "description": "IMF Lending",
+    "description": "Bitcoin",
   
      "title": {
-      "text": "IMF Lending",
-      "subtitle":"credit outstanding (billions), source IMF",
+      "text": "Bitcoin",
+      "subtitle":"Source Yahoo Finance",
       "subtitleFontStyle":"italic",
       "subtitleFontSize":10,
       "anchor": "start",
@@ -36,7 +36,7 @@
       "y": {
         "field": "CBBTCUSD",
         "type": "quantitative",
-        "title": "",
+        "title": "Bitcoin US Dollar",
         "axis": {"grid": false}
       }
     }

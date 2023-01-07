@@ -1,0 +1,142 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    
+  "title": {
+        "text": "5 Year Growth of House Prices vs Affordability",
+        "subtitle": "By English Constituency (2022).  Source:ONS",
+        "subtitleFontStyle": "italic",
+        "subtitleFontSize": 10,
+        "anchor": "middle",
+        "color": "black"
+      },
+  
+    "config": {"background": "#FeFeF8", "view": {"stroke": "transparent"}},
+    "height": 500,
+    "width": 550,
+    "data": { 
+      "url": "https://raw.githubusercontent.com/ferguswalshe/ferguswalshe.github.io/main/incomevsaffordability.csv"
+      
+    },
+    "layer": [
+      {
+        "transform": [
+          {"filter": {"field": "ConstituencyName", "equal": "Aldershot"}}
+          
+        ],
+        "mark": {
+          "type": "text",
+          "fontSize": 100,
+          "x": 50,
+          "y": 2,
+          "opacity": 0.06
+        }
+  
+      },
+      {
+        "encoding": {
+          "x": {
+            "field": "%affordability",
+            "type": "quantitative",
+            "scale": {"domain": [0, 30]},
+            "axis": {"tickCount": 5, "title": "%affordability"}
+          },
+          "y": {
+            "field": "%Growth5years",
+            "type": "quantitative",
+            "scale": {"domain": [-5, 10]},
+            "axis": {"tickCount": 5, "title": "%Growth5years"}
+          }
+        },
+        "layer": [
+          {
+            "mark": {
+              "type": "line",
+              "size": 4,
+              "color": "lightgray",
+              "strokeCap": "round"
+            },
+            "encoding": {
+              "detail": {"field": "ConstituencyName"},
+              
+              "opacity": {
+                "condition": {
+                  "test": {
+                    "or": [
+                      {"param": "hovered", "empty": false},
+                      {"param": "clicked", "empty": false}
+                    ]
+                  },
+                  "value": 0.8
+                },
+                "value": 0
+              }
+            }
+          },
+          {
+            "params": [
+              
+              {
+                "name": "hovered",
+                "select": {
+                  "type": "point",
+                  "fields": ["ConstituencyName"],
+                  "toggle": false,
+                  "on": "mouseover"
+                }
+              },
+              {"name": "clicked", "select": {"type": "point", "fields": [""]}}
+            ],
+            
+            "mark": {"type": "circle", "size": 100, "opacity": 0.9},
+            "encoding": {"color": {"field": "RegionName", "title": "Region"}}
+          },
+          {
+            "transform": [
+              {
+                "filter": {
+                  "and": [
+                    
+                    {
+                      "or": [
+                        {"param": "clicked", "empty": false},
+                        {"param": "hovered", "empty": false}
+                      ]
+                    }
+                  ]
+                }
+              }
+            ],
+            "mark": {
+              "type": "text",
+              "yOffset": -12,
+              "fontSize": 12,
+              "fontWeight": "bold"
+            },
+            "encoding": {
+              "text": {"field": "ConstituencyName"},
+              "color": {"field": "RegionName", "title": "Region"}
+            }
+          },
+
+          {
+            "transform": [
+              {"filter": {"param": "hovered", "empty": false}}
+              
+            ],
+            "layer": [
+              {
+                "mark": {
+                  "type": "text",
+                  "yOffset": -12,
+                  "fontSize": 12,
+                  "color": "gray"
+                }
+                
+              },
+              {"mark": {"type": "circle", "color": "gray"}}
+            ]
+          }
+        ]
+      }
+    ]
+}
