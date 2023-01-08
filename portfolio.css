@@ -60,7 +60,7 @@ p{
 }
     
 
-.myWeek1{
+/*.myWeek1{
     margin: auto;
     max-width: 900px;
     text-align: center;
@@ -81,12 +81,37 @@ p{
     border-color: rgb(62, 145, 90);
 
 }
+
+*/
  
-    
+.myWeek1{
+    margin: auto;
+    max-width: auto;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
+    background-color: rgba(188, 186, 186, 0.92);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgb(62, 145, 90);
+
+}    
+
 .myWeek5{
     margin: auto;
     max-width: 900px;
     background-color: rgba(188, 186, 186, 0.92);
+
+}
 
     /*  
     border-width: 1px;
@@ -94,7 +119,7 @@ p{
     border-radius: 5px;
     border-color: rgb(62, 145, 90);
     */
-}
+
 
 
 
@@ -129,7 +154,7 @@ p{
     display: inline-flex;    
 }
     
-    
+
     
 
     

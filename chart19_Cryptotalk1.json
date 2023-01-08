@@ -34,6 +34,7 @@
       "xOffset": {"field": "category"},
       "color": {"field": "Education", 
       "title":"Education"}
-    },
-    "tooltip":[{"field":"Education", "title": "Proportion"}, {"field":"value", "title": "Population"}]
+    ,
+    "tooltip":[{"field":"Education", "title": "Education"}, {"field":"value", "title": "Percentage"}]
+      }
   }

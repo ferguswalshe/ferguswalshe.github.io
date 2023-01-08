@@ -54,9 +54,9 @@ p{
     text-align: center;
 }
     
-.project{
+.myWeek1{
     margin: auto;
-    max-width: 900px;
+    max-width: auto;
     text-align: center;
     border-top: 5px;
     border-bottom: 5px;
@@ -74,7 +74,8 @@ p{
     border-radius: 5px;
     border-color: rgb(62, 145, 90);
 
-}
+}    
+
 
 .chart{
     background-color: white;
@@ -90,3 +91,5 @@ p{
     display: inline-flex;    
 }
     
+
+  
