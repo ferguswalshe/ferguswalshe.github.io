@@ -1,0 +1,534 @@
+ConstituencyName,RegionName,MedianHPrice,MedianWeeklyWage,UnempConstRate
+Aldershot,South East,335000,576.3,0.027608811
+Aldridge-Brownhills,West Midlands,222175,507.9,0.030404372
+Altrincham and Sale West,North West,405000,474.9,0.020480724
+Amber Valley,East Midlands,175000,505.2,0.027807278
+Arundel and South Downs,South East,470000,491.1,0.019411786
+Ashfield,East Midlands,165000,496.4,0.037844909
+Ashford,South East,315000,525.7,0.032325754
+Ashton-under-Lyne,North West,175000,432.9,0.057041211
+Aylesbury,South East,330000,507.9,0.027437659
+Banbury,South East,303000,525.1,0.023571465
+Barking,London,345000,457.6,0.06623401
+Barnsley Central,Yorkshire and The Humber,141000,481.5,0.037627791
+Barnsley East,Yorkshire and The Humber,136500,499,0.03525081
+Barrow and Furness,North West,154475,573.2,0.028601285
+Basildon and Billericay,East of England,340000,438.9,0.035557581
+Basingstoke,South East,295000,579,0.030181653
+Bassetlaw,East Midlands,175000,479.7,0.031801632
+Bath,South West,400000,535.2,0.018302805
+Batley and Spen,Yorkshire and The Humber,155000,494.9,0.045650364
+Battersea,London,765000,576.8,0.031091062
+Beaconsfield,South East,595000,614,0.02376437
+Beckenham,London,535000,627.6,0.020640159
+Bedford,East of England,270000,512.1,0.052625293
+Bermondsey and Old Southwark,London,515000,653.2,0.045475074
+Berwick-upon-Tweed,North East,195000,370.5,0.023554216
+Bethnal Green and Bow,London,500000,785.9,0.053190939
+Beverley and Holderness,Yorkshire and The Humber,195000,452,0.021931134
+Bexhill and Battle,South East,325000,430.5,0.030310872
+Bexleyheath and Crayford,London,387500,766.6,0.028667231
+Birkenhead,North West,142250,476.1,0.057066326
+"Birmingham, Edgbaston",West Midlands,235000,517.5,0.068716936
+"Birmingham, Erdington",West Midlands,180000,503.9,0.099568415
+"Birmingham, Hall Green",West Midlands,240000,505.5,0.092540823
+"Birmingham, Hodge Hill",West Midlands,175000,507.6,0.105950819
+"Birmingham, Ladywood",West Midlands,190000,428.9,0.106674001
+"Birmingham, Northfield",West Midlands,191000,607.1,0.076542178
+"Birmingham, Perry Barr",West Midlands,186000,533.4,0.10305232
+"Birmingham, Selly Oak",West Midlands,230000,440,0.056498759
+"Birmingham, Yardley",West Midlands,195000,506.2,0.08566691
+Bishop Auckland,North East,117000,448.8,0.036172415
+Blackburn,North West,121550,489.8,0.06072751
+Blackley and Broughton,North West,175000,494.2,0.076867557
+Blackpool North and Cleveleys,North West,146000,457.7,0.053927891
+Blackpool South,North West,122500,424,0.077849631
+Blaydon,North East,150000,469.1,0.035033005
+Blyth Valley,North East,141000,485.7,0.043247227
+Bognor Regis and Littlehampton,South East,295000,442.1,0.035812403
+Bolsover,East Midlands,155000,480.6,0.028662777
+Bolton North East,North West,155000,489.7,0.066735926
+Bolton South East,North West,145000,443.4,0.067124575
+Bolton West,North West,181000,459.3,0.037610582
+Bootle,North West,145000,532.5,0.059076023
+Boston and Skegness,East Midlands,186500,468.9,0.043360434
+Bosworth,East Midlands,236500,498.3,0.025718066
+Bournemouth East,South West,280000,498.7,0.042202218
+Bournemouth West,South West,280000,498.3,0.040067745
+Bracknell,South East,365000,624.1,0.020670546
+Bradford East,Yorkshire and The Humber,125000,450.8,0.086986338
+Bradford South,Yorkshire and The Humber,127000,529.4,0.071426381
+Bradford West,Yorkshire and The Humber,123000,536.6,0.095534854
+Braintree,East of England,310000,517.5,0.024075919
+Brent Central,London,525000,416.7,0.080927132
+Brent North,London,510000,579.4,0.050549731
+Brentford and Isleworth,London,530000,497.4,0.047952789
+Brentwood and Ongar,East of England,469375,475.2,0.025076401
+Bridgwater and West Somerset,South West,240000,453.1,0.026282968
+Brigg and Goole,Yorkshire and The Humber,175000,492,0.029034398
+"Brighton, Kemptown",South East,369975,526.6,0.043193052
+"Brighton, Pavilion",South East,403500,512.8,0.032755544
+Bristol East,South West,290000,463,0.036819845
+Bristol North West,South West,320000,481,0.030777391
+Bristol South,South West,290000,502.2,0.036066634
+Bristol West,South West,351000,619.9,0.034508388
+Broadland,East of England,285500,592.3,0.020536878
+Bromley and Chislehurst,London,482000,659.8,0.032356864
+Bromsgrove,West Midlands,310625,488.7,0.025792912
+Broxbourne,East of England,399995,488.7,0.032622453
+Broxtowe,East Midlands,225000,431.2,0.02311775
+Buckingham,South East,411551,532.1,0.019157559
+Burnley,North West,118000,431,0.053946854
+Burton,West Midlands,189950,500.2,0.031330244
+Bury North,North West,205000,550.1,0.046187523
+Bury South,North West,220000,523.6,0.043291437
+Bury St Edmunds,East of England,277875,579.1,0.020466645
+Calder Valley,Yorkshire and The Humber,180000,496.5,0.028443697
+Camberwell and Peckham,London,495000,557.1,0.061736992
+Camborne and Redruth,South West,240000,454,0.03070315
+Cambridge,East of England,450750,499.3,0.024129821
+Cannock Chase,West Midlands,190525.5,530.9,0.030197445
+Canterbury,South East,332050,489.5,0.026673151
+Carlisle,North West,132000,473.1,0.032258676
+Carshalton and Wallington,London,415000,487.8,0.032230742
+Castle Point,East of England,337000,619.5,0.023379527
+Central Devon,South West,285000,470.7,0.01974122
+Central Suffolk and North Ipswich,East of England,292500,420.7,0.019694208
+Charnwood,East Midlands,260000,495.7,0.018931955
+Chatham and Aylesford,South East,268500,520.9,0.03763649
+Cheadle,North West,325000,480.6,0.021454069
+Chelmsford,East of England,350000,500,0.026756135
+Chelsea and Fulham,London,1150000,574.9,0.033383731
+Cheltenham,South West,280000,566.2,0.025997609
+Chesham and Amersham,South East,637500,526.3,0.020503027
+Chesterfield,East Midlands,179000,464.1,0.033038663
+Chichester,South East,385000,490.3,0.028986432
+Chingford and Woodford Green,London,490500,613.4,0.039525827
+Chippenham,South West,280000,496.7,0.022117464
+Chipping Barnet,London,624000,419.1,0.037554608
+Chorley,North West,175500,467.6,0.027134999
+Christchurch,South West,405000,486.8,0.02030603
+Cities of London and Westminster,London,1175000,523.6,0.028893676
+City of Chester,North West,237250,490.5,0.028750184
+City of Durham,North East,148000,476.3,0.020979311
+Clacton,East of England,250000,540.1,0.050650736
+Cleethorpes,Yorkshire and The Humber,165000,458.5,0.0282228
+Colchester,East of England,267750,405.5,0.030924495
+Colne Valley,Yorkshire and The Humber,186000,539.2,0.033329925
+Congleton,North West,230000,526.9,0.020733231
+Copeland,North West,135000,730.1,0.023362189
+Corby,East Midlands,235000,476.5,0.030433101
+Coventry North East,West Midlands,190000,459.6,0.059818745
+Coventry North West,West Midlands,215000,498.7,0.041491056
+Coventry South,West Midlands,227000,488.5,0.037495396
+Crawley,South East,316000,609.7,0.041333333
+Crewe and Nantwich,North West,185622.5,536.2,0.031337502
+Croydon Central,London,377500,909.4,0.057538625
+Croydon North,London,365000,728.3,0.071452064
+Croydon South,London,462250,516.1,0.035852125
+Dagenham and Rainham,London,380000,572.2,0.057212873
+Darlington,North East,130250,504,0.044909701
+Dartford,South East,340600,579.1,0.028488666
+Daventry,East Midlands,295000,433.4,0.022902972
+Denton and Reddish,North West,190000,438.9,0.041750045
+Derby North,East Midlands,184000,525.3,0.037862497
+Derby South,East Midlands,160000,549.7,0.064617852
+Derbyshire Dales,East Midlands,290000,528,0.014833443
+Devizes,South West,330000,472.5,0.018314331
+Dewsbury,Yorkshire and The Humber,189000,480.7,0.041029386
+Don Valley,Yorkshire and The Humber,162500,453.4,0.034735547
+Doncaster Central,Yorkshire and The Humber,148000,494.2,0.058401088
+Doncaster North,Yorkshire and The Humber,140000,469.3,0.045881904
+Dover,South East,274000,512.3,0.03820045
+Dudley North,West Midlands,185000,552.1,0.060585355
+Dudley South,West Midlands,195000,514,0.051663012
+Dulwich and West Norwood,London,607500,525.9,0.053743367
+Ealing Central and Acton,London,645000,634.1,0.055634213
+Ealing North,London,475000,540.4,0.064620812
+"Ealing, Southall",London,501913,608.4,0.065565032
+Easington,North East,91000,471.4,0.047301431
+East Devon,South West,316000,560.6,0.016916889
+East Ham,London,420000,586.7,0.064278498
+East Hampshire,South East,400000,516.2,0.018846096
+East Surrey,South East,455000,519.1,0.021670344
+East Worthing and Shoreham,South East,365000,465.9,0.02854967
+East Yorkshire,Yorkshire and The Humber,194720,474,0.029044489
+Eastbourne,South East,277000,463,0.044614072
+Eastleigh,South East,300000,529.7,0.022332049
+Eddisbury,North West,265000,496.6,0.022712548
+Edmonton,London,405000,529.1,0.07856734
+Ellesmere Port and Neston,North West,195000,554.3,0.032725892
+Elmet and Rothwell,Yorkshire and The Humber,246500,459.1,0.019847276
+Eltham,London,450000,574,0.045022487
+Enfield North,London,430000,618.1,0.054803474
+"Enfield, Southgate",London,606000,595.4,0.045143027
+Epping Forest,East of England,500000,549.8,0.028860582
+Epsom and Ewell,South East,560000,486.1,0.01833061
+Erewash,East Midlands,183000,638.1,0.032679739
+Erith and Thamesmead,London,355000,460.1,0.052274686
+Esher and Walton,South East,675000,535.8,0.020041741
+Exeter,South West,265000,469.8,0.019941086
+Fareham,South East,315000,504.5,0.01902006
+Faversham and Mid Kent,South East,349995,504.9,0.027171292
+Feltham and Heston,London,415000,531.7,0.057897445
+Filton and Bradley Stoke,South West,320000,670.7,0.018539581
+Finchley and Golders Green,London,750000,556.3,0.044108971
+Folkestone and Hythe,South East,300500,470.9,0.038795415
+Forest of Dean,South West,265000,407.6,0.022108495
+Fylde,North West,207750,539,0.027696559
+Gainsborough,East Midlands,205000,460.9,0.03085586
+Garston and Halewood,North West,189975,514.5,0.046015639
+Gateshead,North East,130000,502.1,0.052553297
+Gedling,East Midlands,208000,557,0.031216869
+Gillingham and Rainham,South East,279000,436.7,0.038472441
+Gloucester,South West,222000,487.6,0.034536768
+Gosport,South East,244250,477.1,0.031281075
+Grantham and Stamford,East Midlands,225000,517.5,0.029746216
+Gravesham,South East,336500,490.5,0.040589389
+Great Grimsby,Yorkshire and The Humber,128000,482.7,0.052274283
+Great Yarmouth,East of England,205000,558.5,0.045869146
+Greenwich and Woolwich,London,470000,529.2,0.050227975
+Guildford,South East,492000,668.3,0.016477425
+Hackney North and Stoke Newington,London,600000,556,0.057670279
+Hackney South and Shoreditch,London,590000,761.2,0.055849108
+Halesowen and Rowley Regis,West Midlands,206000,478.4,0.044843877
+Halifax,Yorkshire and The Humber,138750,467.5,0.04983857
+Haltemprice and Howden,Yorkshire and The Humber,224500,528.9,0.016145843
+Halton,North West,150000,519.9,0.041680314
+Hammersmith,London,675000,752.7,0.055891202
+Hampstead and Kilburn,London,875000,822.9,0.037982737
+Harborough,East Midlands,265500,450,0.021194338
+Harlow,East of England,315000,480,0.044186739
+Harrogate and Knaresborough,Yorkshire and The Humber,275000,522.1,0.018880768
+Harrow East,London,565000,505.9,0.03995952
+Harrow West,London,500000,498.3,0.040063816
+Hartlepool,North East,126000,500.1,0.051296329
+Harwich and North Essex,East of England,290000,540.2,0.022339841
+Hastings and Rye,South East,290000,441.3,0.052761922
+Havant,South East,290000,495.4,0.036420744
+Hayes and Harlington,London,410000,601.1,0.051217415
+Hazel Grove,North West,260000,381.2,0.029977191
+Hemel Hempstead,East of England,377000,482,0.031195021
+Hemsworth,Yorkshire and The Humber,159500,492.6,0.032294553
+Hendon,London,525000,514.2,0.049083075
+Henley,South East,486000,618.7,0.017047973
+Hereford and South Herefordshire,West Midlands,237500,460.4,0.024370444
+Hertford and Stortford,East of England,399995,389.9,0.01867902
+Hertsmere,East of England,535000,477.9,0.030801177
+Hexham,North East,235000,414.6,0.016420693
+Heywood and Middleton,North West,175000,464.8,0.051736705
+High Peak,East Midlands,219745,463.2,0.022456349
+Hitchin and Harpenden,East of England,510000,631.7,0.017364593
+Holborn and St Pancras,London,700000,765.1,0.039482296
+Hornchurch and Upminster,London,440000,485.7,0.033000925
+Hornsey and Wood Green,London,632000,568.9,0.053020633
+Horsham,South East,400000,575.4,0.018680177
+Houghton and Sunderland South,North East,137000,473.8,0.044061867
+Hove,South East,378174,469.6,0.038055118
+Huddersfield,Yorkshire and The Humber,149975,390.2,0.052057031
+Huntingdon,East of England,285000,526.6,0.022914745
+Hyndburn,North West,123000,463.1,0.054237169
+Ilford North,London,490000,466.8,0.038912076
+Ilford South,London,445500,445.7,0.059376406
+Ipswich,East of England,220000,578.6,0.047589547
+Isle of Wight,South East,247000,424,0.033443513
+Islington North,London,620000,640.3,0.04823593
+Islington South and Finsbury,London,710000,767.6,0.041186999
+Jarrow,North East,135500,432.1,0.044728186
+Keighley,Yorkshire and The Humber,179000,498.8,0.041124567
+Kenilworth and Southam,West Midlands,345000,438.8,0.017668049
+Kensington,London,1400000,606.8,0.037555382
+Kettering,East Midlands,228500,424.6,0.035378119
+Kingston and Surbiton,London,489250,594.3,0.026963753
+Kingston upon Hull East,Yorkshire and The Humber,125000,431,0.054914083
+Kingston upon Hull North,Yorkshire and The Humber,132000,517.9,0.05569986
+Kingston upon Hull West and Hessle,Yorkshire and The Humber,130000,439.9,0.066591502
+Kingswood,South West,292000,444.7,0.018396268
+Knowsley,North West,159950,503.1,0.053710634
+Lancaster and Fleetwood,North West,160000,444.7,0.027681937
+Leeds Central,Yorkshire and The Humber,145000,486.9,0.057855975
+Leeds East,Yorkshire and The Humber,187750,432.8,0.070715911
+Leeds North East,Yorkshire and The Humber,284000,476.8,0.04155512
+Leeds North West,Yorkshire and The Humber,260000,449.8,0.023840677
+Leeds West,Yorkshire and The Humber,170050,499.3,0.061333872
+Leicester East,East Midlands,240000,479.9,0.045607132
+Leicester South,East Midlands,215750,492.8,0.045484326
+Leicester West,East Midlands,195000,434.2,0.060551634
+Leigh,North West,165000,436.2,0.039924152
+Lewes,South East,375000,512.9,0.029299581
+Lewisham East,London,440000,629.6,0.056675669
+Lewisham West and Penge,London,435000,467.4,0.053776542
+"Lewisham, Deptford",London,465825,662.9,0.056592027
+Leyton and Wanstead,London,525000,577.7,0.050875895
+Lichfield,West Midlands,262500,542.9,0.023332399
+Lincoln,East Midlands,181500,471.8,0.038427004
+"Liverpool, Riverside",North West,170000,555.5,0.042222404
+"Liverpool, Walton",North West,115000,506.5,0.073754885
+"Liverpool, Wavertree",North West,160000,457.4,0.064470073
+"Liverpool, West Derby",North West,140000,464.2,0.062554598
+Loughborough,East Midlands,226000,508.3,0.021680252
+Louth and Horncastle,East Midlands,200000,484.1,0.026579776
+Ludlow,West Midlands,255000,481,0.024942273
+Luton North,East of England,290000,504.6,0.051512824
+Luton South,East of England,276000,503.4,0.063493285
+Macclesfield,North West,260000,535.6,0.025363445
+Maidenhead,South East,520000,613.4,0.021647299
+Maidstone and The Weald,South East,326000,540.6,0.030657895
+Makerfield,North West,160000,425.7,0.031946858
+Maldon,East of England,370000,530.9,0.020749936
+Manchester Central,North West,215000,613.2,0.049224382
+"Manchester, Gorton",North West,185000,552.8,0.074355633
+"Manchester, Withington",North West,290000,453.6,0.041488669
+Mansfield,East Midlands,161550,536.1,0.039813134
+Meon Valley,South East,355000,517.4,0.022841374
+Meriden,West Midlands,299972.5,386.6,0.042553191
+Mid Bedfordshire,East of England,350000,471.8,0.017972642
+Mid Derbyshire,East Midlands,238500,450.6,0.017658481
+Mid Dorset and North Poole,South West,365000,479.2,0.020048268
+Mid Norfolk,East of England,260000,608.6,0.021282733
+Mid Sussex,South East,395000,540.5,0.016950615
+Mid Worcestershire,West Midlands,275000,582,0.028539855
+Middlesbrough,North East,110000,449.7,0.070834074
+Middlesbrough South and East Cleveland,North East,160000,479.9,0.035410791
+Milton Keynes North,South East,290000,645.5,0.039213112
+Milton Keynes South,South East,312500,581.9,0.036395209
+Mitcham and Morden,London,433250,409.7,0.055976241
+Mole Valley,South East,575000,574.9,0.018593414
+Morecambe and Lunesdale,North West,175000,464.5,0.036388399
+Morley and Outwood,Yorkshire and The Humber,204995,491.6,0.023711487
+New Forest East,South East,330000,509.7,0.019359643
+New Forest West,South East,419250,467.4,0.020631966
+Newark,East Midlands,235725,441.4,0.027002055
+Newbury,South East,345000,687.6,0.021676958
+Newcastle upon Tyne Central,North East,150000,545.9,0.058913289
+Newcastle upon Tyne East,North East,167000,528.3,0.036706094
+Newcastle upon Tyne North,North East,185000,420.5,0.035856079
+Newcastle-under-Lyme,West Midlands,165000,536.6,0.02808389
+Newton Abbot,South West,265000,461.4,0.020779609
+"Normanton, Pontefract and Castleford",Yorkshire and The Humber,158500,549.8,0.036607081
+North Cornwall,South West,275000,480.3,0.026823213
+North Devon,South West,275000,473.7,0.023342837
+North Dorset,South West,330000,489.4,0.019858029
+North Durham,North East,115000,452.1,0.03729148
+North East Bedfordshire,East of England,330000,517.1,0.022464392
+North East Cambridgeshire,East of England,225000,476,0.036084426
+North East Derbyshire,East Midlands,207000,498.8,0.025277243
+North East Hampshire,South East,460000,641.7,0.015413698
+North East Hertfordshire,East of England,375000,483,0.022903517
+North East Somerset,South West,315000,492.8,0.018014719
+North Herefordshire,West Midlands,287000,458,0.021957291
+North Norfolk,East of England,293000,538.8,0.02598705
+North Shropshire,West Midlands,225000,459.8,0.023593766
+North Somerset,South West,358750,521.7,0.01524259
+North Swindon,South West,244499.5,484.1,0.031120391
+North Thanet,South East,305000,440.2,0.045819681
+North Tyneside,North East,150000,474.3,0.039965016
+North Warwickshire,West Midlands,224950,485.8,0.030786572
+North West Cambridgeshire,East of England,245000,479.4,0.030200286
+North West Durham,North East,125500,442.4,0.03307169
+North West Hampshire,South East,318000,518.4,0.021108935
+North West Leicestershire,East Midlands,230000,501.9,0.020291154
+North West Norfolk,East of England,245000,524,0.027918688
+North Wiltshire,South West,310000,518.5,0.018091188
+Northampton North,East Midlands,233250,558.9,0.047793493
+Northampton South,East Midlands,222000,506.3,0.050851868
+Norwich North,East of England,235000,476.8,0.033614499
+Norwich South,East of England,235000,501.5,0.034904255
+Nottingham East,East Midlands,162500,487.8,0.059390438
+Nottingham North,East Midlands,155000,441.2,0.067586433
+Nottingham South,East Midlands,200000,475,0.033773511
+Nuneaton,West Midlands,210000,574.3,0.040439627
+Old Bexley and Sidcup,London,435000,517.5,0.020634031
+Oldham East and Saddleworth,North West,180000,465.8,0.064503852
+Oldham West and Royton,North West,160000,529.6,0.070563407
+Orpington,London,495000,528.1,0.023851345
+Oxford East,South East,392500,606.6,0.02921069
+Oxford West and Abingdon,South East,400000,625.1,0.017917889
+Pendle,North West,125000,468.4,0.048764147
+Penistone and Stocksbridge,Yorkshire and The Humber,190000,496.2,0.02329033
+Penrith and The Border,North West,198875,508.2,0.018839644
+Peterborough,East of England,202000,454.5,0.062384334
+"Plymouth, Moor View",South West,185000,479.8,0.031215743
+"Plymouth, Sutton and Devonport",South West,185000,488.5,0.044221258
+Poole,South West,322000,545.7,0.030806771
+Poplar and Limehouse,London,555000,"1,054.10",0.05051616
+Portsmouth North,South East,257000,540.4,0.037967374
+Portsmouth South,South East,231250,507.9,0.046066121
+Preston,North West,120000,484.3,0.055971518
+Pudsey,Yorkshire and The Humber,230000,469.2,0.022074544
+Putney,London,600000,576.8,0.036418468
+Rayleigh and Wickford,East of England,375000,476.5,0.019333926
+Reading East,South East,359975,639.5,0.031012288
+Reading West,South East,315000,591.4,0.042231101
+Redcar,North East,137000,426.4,0.047106761
+Redditch,West Midlands,235000,489.4,0.037113774
+Reigate,South East,459400,544.9,0.021155076
+Ribble Valley,North West,199950,548.1,0.018489638
+Richmond (Yorks),Yorkshire and The Humber,231000,439.1,0.015626199
+Richmond Park,London,905000,547.5,0.020979785
+Rochdale,North West,155000,422.4,0.071207081
+Rochester and Strood,South East,290000,537.1,0.034915892
+Rochford and Southend East,East of England,286750,459.5,0.053397028
+Romford,London,413750,479.5,0.03637254
+Romsey and Southampton North,South East,375000,562.8,0.019956699
+Rossendale and Darwen,North West,154000,434.5,0.038237603
+Rother Valley,Yorkshire and The Humber,180000,502.1,0.031567646
+Rotherham,Yorkshire and The Humber,140000,475.1,0.065817042
+Rugby,West Midlands,240000,469.4,0.028508908
+"Ruislip, Northwood and Pinner",London,625000,491.4,0.024298741
+Runnymede and Weybridge,South East,479000,570,0.021550063
+Rushcliffe,East Midlands,290000,509.2,0.016255783
+Rutland and Melton,East Midlands,265000,490.6,0.019252366
+Saffron Walden,East of England,440000,477.3,0.017621269
+Salford and Eccles,North West,206092,585.8,0.048863903
+Salisbury,South West,305000,530.4,0.02402163
+Scarborough and Whitby,Yorkshire and The Humber,180750,490.4,0.032041567
+Scunthorpe,Yorkshire and The Humber,143250,439.6,0.0436046
+Sedgefield,North East,129950,514.2,0.036423776
+Sefton Central,North West,233000,411.1,0.021335287
+Selby and Ainsty,Yorkshire and The Humber,235000,451.8,0.021339094
+Sevenoaks,South East,450000,516,0.020244328
+Sheffield Central,Yorkshire and The Humber,185000,518.1,0.02988721
+Sheffield South East,Yorkshire and The Humber,155275,504.8,0.046883543
+"Sheffield, Brightside and Hillsborough",Yorkshire and The Humber,138000,503.5,0.06753847
+"Sheffield, Hallam",Yorkshire and The Humber,308250,489.2,0.013761306
+"Sheffield, Heeley",Yorkshire and The Humber,183000,425.6,0.05123095
+Sherwood,East Midlands,195000,469.3,0.031764459
+Shipley,Yorkshire and The Humber,195000,454.1,0.033433325
+Shrewsbury and Atcham,West Midlands,235000,580.7,0.023730759
+Sittingbourne and Sheppey,South East,275000,469.3,0.039232031
+Skipton and Ripon,Yorkshire and The Humber,250000,465.3,0.015919718
+Sleaford and North Hykeham,East Midlands,230000,419.8,0.020428557
+Slough,South East,340000,720,0.054082644
+Solihull,West Midlands,295000,477.6,0.024430419
+Somerton and Frome,South West,307300,487.4,0.022472822
+South Basildon and East Thurrock,East of England,320000,483.3,0.038458457
+South Cambridgeshire,East of England,400000,475.6,0.016483209
+South Derbyshire,East Midlands,225000,479.1,0.020357195
+South Dorset,South West,250000,499.3,0.031272091
+South East Cambridgeshire,East of England,335000,619.9,0.019296776
+South East Cornwall,South West,245000,451.8,0.024432673
+South Holland and The Deepings,East Midlands,225000,517.2,0.028299964
+South Leicestershire,East Midlands,259975,496.3,0.019714204
+South Norfolk,East of England,280000,579.5,0.0205911
+South Northamptonshire,East Midlands,315000,574.6,0.017203085
+South Ribble,North West,195000,457.6,0.021326574
+South Shields,North East,137250,432.6,0.065508047
+South Staffordshire,West Midlands,249995,749.7,0.025966908
+South Suffolk,East of England,310000,475.7,0.02231874
+South Swindon,South West,231000,593.7,0.034694258
+South Thanet,South East,290000,461.7,0.055460204
+South West Bedfordshire,East of England,310000,453.1,0.025777198
+South West Devon,South West,265000,464.3,0.016117864
+South West Hertfordshire,East of England,555000,533.6,0.019147393
+South West Norfolk,East of England,245500,651.6,0.025651575
+South West Surrey,South East,500000,524.3,0.017050367
+South West Wiltshire,South West,265000,426.6,0.022174077
+"Southampton, Itchen",South East,245000,542.4,0.042423414
+"Southampton, Test",South East,230000,605.9,0.045459281
+Southend West,East of England,350000,477.9,0.032311457
+Southport,North West,190000,401.8,0.03708186
+Spelthorne,South East,418000,580.9,0.029119249
+St Albans,East of England,565125,392.2,0.023081885
+St Austell and Newquay,South West,256000,486,0.030135729
+St Helens North,North West,160000,501.9,0.038115152
+St Helens South and Whiston,North West,151500,478.9,0.044283439
+St Ives,South West,300000,427.3,0.025957118
+Stafford,West Midlands,215000,402.8,0.026647073
+Staffordshire Moorlands,West Midlands,190000,528.9,0.018610288
+Stalybridge and Hyde,North West,180000,403.9,0.04434815
+Stevenage,East of England,320000,545.8,0.028779172
+Stockport,North West,225465,510,0.048703472
+Stockton North,North East,127500,527.3,0.05070358
+Stockton South,North East,165000,452.8,0.033089608
+Stoke-on-Trent Central,West Midlands,125000,383.8,0.059508635
+Stoke-on-Trent North,West Midlands,134975,524.2,0.052366698
+Stoke-on-Trent South,West Midlands,149750,435.4,0.043037975
+Stone,West Midlands,235000,415.7,0.017703321
+Stourbridge,West Midlands,209250,475.1,0.04138045
+Stratford-on-Avon,West Midlands,338500,485.4,0.020994395
+Streatham,London,535000,472.9,0.052144659
+Stretford and Urmston,North West,274000,534.4,0.043704621
+Stroud,South West,300000,467.8,0.015963053
+Suffolk Coastal,East of England,300000,606.7,0.019689064
+Sunderland Central,North East,135000,436.8,0.051888511
+Surrey Heath,South East,420000,586.2,0.019014126
+Sutton and Cheam,London,440000,627.7,0.024646861
+Sutton Coldfield,West Midlands,327500,516,0.02480543
+Tamworth,West Midlands,226300,480.4,0.033409705
+Tatton,North West,340000,545.3,0.021655773
+Taunton Deane,South West,250000,462.6,0.022438316
+Telford,West Midlands,180000,442.2,0.044029851
+Tewkesbury,South West,276000,569.8,0.01800975
+The Cotswolds,South West,390000,497,0.016976038
+The Wrekin,West Midlands,225500,557.4,0.027258785
+Thirsk and Malton,Yorkshire and The Humber,240000,450.2,0.017520469
+Thornbury and Yate,South West,315000,537.7,0.016422904
+Thurrock,East of England,314500,547,0.041372256
+Tiverton and Honiton,South West,270000,449.6,0.019201982
+Tonbridge and Malling,South East,421000,512.9,0.020184952
+Tooting,London,653000,531.9,0.034120128
+Torbay,South West,218000,399.7,0.035972728
+Torridge and West Devon,South West,260250,373.9,0.020983056
+Totnes,South West,315000,421.6,0.024697388
+Tottenham,London,490000,459.1,0.084613738
+Truro and Falmouth,South West,300000,476.5,0.022730359
+Tunbridge Wells,South East,395000,546.5,0.022990946
+Twickenham,London,659975,564.6,0.02434374
+Tynemouth,North East,210000,484.5,0.029097931
+Uxbridge and South Ruislip,London,470000,547.9,0.033510972
+Vauxhall,London,558500,656.7,0.04997438
+Wakefield,Yorkshire and The Humber,184000,474.3,0.041570402
+Wallasey,North West,169525,478.9,0.044392185
+Walsall North,West Midlands,165000,507.1,0.062903383
+Walsall South,West Midlands,175000,513.1,0.066011236
+Walthamstow,London,493997.5,416.7,0.059605573
+Wansbeck,North East,134950,497.5,0.041420944
+Wantage,South East,355000,733.6,0.020120253
+Warley,West Midlands,186000,500.6,0.069050418
+Warrington North,North West,190250,571.1,0.032345283
+Warrington South,North West,240000,510.3,0.025158221
+Warwick and Leamington,West Midlands,291787.5,450.1,0.026260041
+Washington and Sunderland West,North East,123741,512.8,0.045832553
+Watford,East of England,410000,556.2,0.033232861
+Waveney,East of England,225000,494.2,0.04111914
+Wealden,South East,376000,501,0.021648665
+Weaver Vale,North West,215000,582.6,0.028724334
+Wellingborough,East Midlands,230000,550.5,0.033090793
+Wells,South West,265000,446.2,0.027495242
+Welwyn Hatfield,East of England,400000,439.3,0.024202406
+Wentworth and Dearne,Yorkshire and The Humber,144497.5,485.7,0.040852781
+West Bromwich East,West Midlands,192000,552.4,0.064978277
+West Bromwich West,West Midlands,174000,495.1,0.066301171
+West Dorset,South West,320000,448.8,0.021154099
+West Ham,London,431750,687.6,0.062694323
+West Lancashire,North West,185000,498.7,0.032107794
+West Suffolk,East of England,260000,607.1,0.023113653
+West Worcestershire,West Midlands,295000,480.4,0.026484825
+Westminster North,London,845995,632.7,0.040570889
+Westmorland and Lonsdale,North West,255000,456.1,0.014666473
+Weston-Super-Mare,South West,245000,449.2,0.030943055
+Wigan,North West,157500,477.9,0.042071831
+Wimbledon,London,760000,575,0.024340491
+Winchester,South East,461500,576.7,0.017547572
+Windsor,South East,495100,670.4,0.021827085
+Wirral South,North West,220000,473.7,0.018833593
+Wirral West,North West,250000,380.2,0.021010454
+Witham,East of England,333250,503.8,0.023269145
+Witney,South East,340000,546,0.018871043
+Woking,South East,420000,652.5,0.023304433
+Wokingham,South East,437600,540.4,0.01531434
+Wolverhampton North East,West Midlands,175000,490.8,0.07190116
+Wolverhampton South East,West Midlands,170000,558.8,0.0781466
+Wolverhampton South West,West Midlands,213000,525.5,0.06878592
+Worcester,West Midlands,220000,497.9,0.036836859
+Workington,North West,140000,486.9,0.025294393
+Worsley and Eccles South,North West,200000,508.7,0.053077209
+Worthing West,South East,327580.5,491.7,0.03122064
+Wycombe,South East,375000,637.9,0.039845143
+Wyre and Preston North,North West,213275,447.5,0.017239435
+Wyre Forest,West Midlands,220000,487.9,0.03280398
+Wythenshawe and Sale East,North West,227250,509.7,0.055071433
+Yeovil,South West,230000,502.4,0.023637323
+York Central,Yorkshire and The Humber,250000,456.3,0.021750312
+York Outer,Yorkshire and The Humber,300000,505.3,0.012133066
