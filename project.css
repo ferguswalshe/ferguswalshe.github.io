@@ -17,6 +17,56 @@ body{
         min-height: 100vh;
  }
 
+ .link{
+    background-color:  rgb(62, 145, 90);
+
+    padding: 5px;
+    
+    border:0px;
+    border-color: rgb(6, 145, 90);
+    border-style: solid;
+    border-radius: 5px;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+    font-weight:700;
+    color:white;
+    text-decoration: none;
+ }
+
+ .links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 5px
+}
+
+.linkcolab{
+    background-color:  rgb(62, 145, 90);
+
+    padding: 1px;
+    
+    border:0px;
+    border-color: rgb(6, 145, 90);
+    border-style: solid;
+    border-radius: 2px;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+    font-weight:700;
+    color:white;
+    text-decoration: none;
+ }
+
+ .linkcolab:hover{
+
+    background-color:rgb(71, 201, 114);
+
+    border:0px;
+    border-color:rgb(0, 0, 0);
+    border-style: solid;
+    
+}
 
  .wrap{
     display: block;
@@ -29,28 +79,28 @@ body{
 h1{
     font-family: 'Times New Roman', Times, serif;
     font-variant: small-caps;
-    background-color: rgba(188, 186, 186, 0.92);
+    
     text-align: center;
     }
     
 h2{
     font-family: 'Times New Roman', Times, serif;
     font-variant: small-caps;
-    background-color: rgba(188, 186, 186, 0.92);
+    
     text-align: center;
 }
 
 h3{
     font-family: 'Times New Roman', Times, serif;
     font-variant: small-caps;
-    background-color: rgba(188, 186, 186, 0.92);
+    
     text-align: center;
 }
 
 p{
     font-family: 'Times New Roman', Times, serif;
-    font-variant: small-caps;
-    background-color: rgba(188, 186, 186, 0.92);
+    font-variant: normal;
+    
     text-align: center;
 }
     

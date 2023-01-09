@@ -23,6 +23,70 @@ body{
  }
 
 
+ /*links*/
+
+ .link{
+    background-color:  rgb(62, 145, 90);
+
+    padding: 5px;
+    
+    border:0px;
+    border-color: rgb(6, 145, 90);
+    border-style: solid;
+    border-radius: 5px;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+    font-weight:700;
+    color:white;
+    text-decoration: none;
+ }
+
+ .links{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 5px
+}
+
+.linkcolab{
+    background-color:  rgb(62, 145, 90);
+
+    padding: 1px;
+    
+    border:0px;
+    border-color: rgb(6, 145, 90);
+    border-style: solid;
+    border-radius: 2px;
+
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+    font-weight:700;
+    color:white;
+    text-decoration: none;
+ }
+
+ .linkcolab:hover{
+
+    background-color:rgb(71, 201, 114);
+
+    border:0px;
+    border-color:rgb(0, 0, 0);
+    border-style: solid;
+    
+}
+
+
+.link:hover{
+
+    background-color:rgb(71, 201, 114);
+
+    border:0px;
+    border-color:rgb(0, 0, 0);
+    border-style: solid;
+    
+}
+
  .wrap{
     display: block;
     margin: auto;
@@ -34,66 +98,42 @@ body{
 h1{
     font-family: 'Times New Roman', Times, serif;
     font-variant: small-caps;
-    background-color: rgba(188, 186, 186, 0.92);
+    
     text-align: center;
     }
     
 h2{
     font-family: 'Times New Roman', Times, serif;
     font-variant: small-caps;
-    background-color: rgba(188, 186, 186, 0.92);
+    
     text-align: center;
 }
 
 h3{
     font-family: 'Times New Roman', Times, serif;
     font-variant: small-caps;
-    background-color: rgba(188, 186, 186, 0.92);
+   
     text-align: center;
 }
 
 p{
     font-family: 'Times New Roman', Times, serif;
-    font-variant: small-caps;
-    background-color: rgba(188, 186, 186, 0.92);
-    text-align: center;
-}
+    font-variant: normal;
     
-
-/*.myWeek1{
-    margin: auto;
-    max-width: 900px;
     text-align: center;
-    border-top: 5px;
-    border-bottom: 5px;
-    border-left: 5px;
-    border-right: 5px;
-    border-style: none;
-    background-color: rgba(188, 186, 186, 0.92);
-    padding-top: 5px;
-    padding-left: 5px;
-    padding-right: 5px;
-    padding-bottom: 5px;
-
-    border-width: 1px;
-    border-style: solid;
-    border-radius: 5px;
-    border-color: rgb(62, 145, 90);
-
 }
-
-*/
+ 
  
 .myWeek1{
     margin: auto;
-    max-width: auto;
+    max-width: 800;
     text-align: center;
     border-top: 5px;
     border-bottom: 5px;
     border-left: 5px;
     border-right: 5px;
     border-style: none;
-    background-color: rgba(188, 186, 186, 0.92);
+    background-color: rgba(165, 243, 174, 0.92);
     padding-top: 5px;
     padding-left: 5px;
     padding-right: 5px;
@@ -102,22 +142,217 @@ p{
     border-width: 1px;
     border-style: solid;
     border-radius: 5px;
-    border-color: rgb(62, 145, 90);
+    border-color: rgba(122, 221, 133, 0.92);
+
+}    
+
+.myWeek2{
+    margin: auto;
+    max-width: 800;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
+    background-color: rgba(165, 243, 174, 0.92);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgba(122, 221, 133, 0.92);
+
+}    
+
+.myWeek3{
+    margin: auto;
+    max-width: 800;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
+    background-color: rgba(165, 243, 174, 0.92);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgba(122, 221, 133, 0.92);
+
+}    
+
+.myWeek4{
+    margin: auto;
+    max-width: 800;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
+    background-color: rgba(165, 243, 174, 0.92);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgba(122, 221, 133, 0.92);
 
 }    
 
 .myWeek5{
     margin: auto;
-    max-width: 900px;
-    background-color: rgba(188, 186, 186, 0.92);
+    max-width: 800;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
+    background-color: rgba(165, 243, 174, 0.92);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
 
-}
-
-    /*  
     border-width: 1px;
     border-style: solid;
     border-radius: 5px;
-    border-color: rgb(62, 145, 90);
+    border-color: rgba(122, 221, 133, 0.92);
+
+
+   
+}
+
+.myWeek6{
+    margin: auto;
+    max-width: 800;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
+    background-color: rgba(165, 243, 174, 0.92);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgba(122, 221, 133, 0.92);
+
+}    
+
+.myWeek7{
+    margin: auto;
+    max-width: 800;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
+    background-color: rgba(165, 243, 174, 0.92);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgba(122, 221, 133, 0.92);
+
+}    
+
+.myWeek8{
+    margin: auto;
+    max-width: 800;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
+    background-color: rgba(165, 243, 174, 0.92);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgba(122, 221, 133, 0.92);
+
+}    
+
+.myWeek9{
+    margin: auto;
+    max-width: 800;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
+    background-color: rgba(165, 243, 174, 0.92);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgba(122, 221, 133, 0.92);
+
+}    
+
+.myWeek10{
+    margin: auto;
+    max-width: 800;
+    text-align: center;
+    border-top: 5px;
+    border-bottom: 5px;
+    border-left: 5px;
+    border-right: 5px;
+    border-style: none;
+    background-color: rgba(165, 243, 174, 0.92);
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: rgba(122, 221, 133, 0.92);
+
+}    
+
+    /*  
+
+     margin: auto;
+    max-width: 900px;
+    background-color: rgba(188, 186, 186, 0.92);
+
+ 
     */
 
 
@@ -142,7 +377,7 @@ p{
 */    
 .chart{
     background-color: white;
-    width:auto;
+    width:700;
     height: auto;
     border-width: 3px;
     border-style: solid;
@@ -154,11 +389,6 @@ p{
     display: inline-flex;    
 }
     
-
-    
-
-    
-
 
 .grid_items{
     background-color: white;

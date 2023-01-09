@@ -16,34 +16,81 @@
 </head>
 <body>
 
-    <a href="portfolio.html" id="link1">My portfolio</a>
- 
-    <a href="index.html" id="link2">Mainpage</a>
+    <div class = "links">   
+        <a href="portfolio.html" class="link" id="link1">Portfolio</a>
+        <a href="index.html" class="link" id="link2">Mainpage</a>
+    </div>
+  
 
     <div class="project">
-        <h1>House Prices in the UK</h1>
-        <p></p>
+        <h1>House Prices in England</h1>
+        <p>The aim of my project is to determine why there is such regional differences in house prices in England.  As of 2022, some parts of the Northeast of England 10 times less expensive than areas of London. Why is that? Are parts of London in a housing market bubble?</p>
 
         <h2>Map of House Prices</h2>
-        <p>Map of House Prices</p>
+        <p>Firstly, I created a Map depicting the house price difference in different regions in the UK, using Parliamentary Constituency level data.  I took this data from the ONS and then cleaned it using Excel.  Here, you can see that the parliamentary constituency level data is colour coded based on house prices.  Over time the map shows a deepening of this divide.</p>
         <div class="chart" id="Chart1"></div>
 
         <h2>Regression</h2>
-        <p>Map of House Prices</p>
+        <p>Are wages a factor in influencing house prices?  There is some link, but the regression shows only a week correlation and an Rsquared of only 0.17. </p>
         <div class="chart" id="Chart2"></div>
 
         <h2>Affordability</h2>
-        <p>Map of House Prices</p>
+        <p>Is this link between wages and house prices related to growth? (Affordability is median salary as a percentage of house prices by constituency).  The link between these factors is also very weak.  However, it does allow a good visualisation of the differences between regions of affordability and house price growth. </p>
         <div class="chart" id="Chart3"></div>
 
-        <h2>Sales</h2>
-        <p>Map of House Prices</p>
-        <div class="chart" id="Chart4"></div>
+        <h2>Unemployment</h2>
+        <p>Is unemployment related to House Prices? Yes, but negatively and very weakly.</p>
+        <div class="chart" id="Chart7"></div>
+
+        <h2>Stamp Duty</h2>
+        <p>Does it impact the type of houses sold?</p>
+        <p>It is very similar to the trends of first time buyers house sales.</p>
+        <p>Also likely to be buying cheaper properties.</p>
+        <div class="chart" id="Chart6"></div>
 
         <h2>Number First Time Buyers</h2>
-        <p>Map of House Prices</p>
+        <p>The proportion and number of first time buyers has increased in conjunction with stamp prices staying considerably lower for cheaper properties.</p>
+        <p>The data for this chart was scraped from Money.co.uk and cleaned on <a href="https://colab.research.google.com/drive/1iuVrIDAPcXoarob3Zuxclh0cDKnPuGLQ?usp=sharing" class="linkcolab" id="link4">colab</a>.</p>
         <div class="chart" id="Chart5"></div>
+
+        <h2>Sales</h2>
+        <p>The final chart shows that when house sales fell considerably in 2008, household goods remained solid.  Possibly illustrating a bubble in 2008.</p>
+        <div class="chart" id="Chart4"></div>
+        <br>
+        <br>
+    
+        <h2>My Data</h2>
+        <p>Most of the data I used was from the ONS, Nationwide and the Commons Library, and downloaded through CSV files.  I used mostly government websites as it was the best way to access region level data.  However, if it had been possible, I would have liked to use an API to collect the data so that it would automatically update.  I used colab to help clean my data along with excel.  Most of my data was in large datasets, so to clean them would have been near impossible without these tools.
+            I scraped data from money.co.uk to construct my chart on First Time Buyers.
+            I also manually inputted data regarding Stamp Duty as I could not find relevant data in table format.  
+            I used many processes on colab that can be replicated and to reduce and clean csv format data.
+            </p>
+        <br>
+        <h2>Data Cleaning</h2>
+        <p>I used excel generally for data cleaning.  This was complicated with the large datasets of constituency level time series data.  Often the time series data was not in cohesion, so I constructed formulas to align them.  I also used excel to create formulas which constructed new indicators, such as Affordability.  This worked well.  I also used colab to create new components and clean data so that it was in the correct format for vega-lite.</p>
+        <br>
+        <br>
+    
+        
+        <h2>Conclusion</h2>
+        <p>Overall, House Prices are often extremely different depending on many different factors.  Overall, the largest influence upon house price data seems to have been the regional divide.  However, when we attempt to dive into the causations of this division it seems to become more mysterious.  Income is very weakly correlated with house prices.  We also find that recently lots of places that are more affordable to live have had higher growth rates, however this is also a weak correlation.  Overall, my project suggests that lots of factors influence house prices.  However, I am still yet to find out why the house prices in London are so much greater than other places in England.  Perhaps, these are signs of a bubble in London or perhaps this demand is more complex than previously imagined.</p>
  
+        <br>
+        <br>
+        <h3>Sources</h3>
+
+        <p>
+        <a href="https://commonslibrary.parliament.uk/constituency-data-people-claiming-unemployment-benefits/" class="linkcolab" id="link5">Commons Library</a>
+        <a href="https://www.stampdutyrates.co.uk/historic-rates.html" class="linkcolab" id="link6">Stamp Duty</a> 
+        <a href="https://www.money.co.uk/mortgages/first-time-buyer-mortgages/statistics#:~:text=This%20is%20a%20surprising%20recovery,t%20changed%20since%20last%20year." class="linkcolab" id="link6">Money.co.uk</a> 
+        <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/numberofresidentialpropertysalesforsubnationalgeographiesexistingdwellingshpssadataset23" class="linkcolab" id="link6">ONS</a> 
+        <a href="https://www.nationwidehousepriceindex.co.uk/charts" class="linkcolab" id="link6">Nationwide</a> 
+        <a href="https://landregistry.data.gov.uk/app/ukhpi/browse?from=2000-01-01&location=http%3A%2F%2Flandregistry.data.gov.uk%2Fid%2Fregion%2Funited-kingdom&to=2021-10-01&lang=en" class="linkcolab" id="link6">Land Registry</a> 
+        <a href="" class="linkcolab" id="link6">Commons Library</a> 
+        <a href="" class="linkcolab" id="link6">Commons Library</a> 
+    
+    </p>
+
     </div>
 
 
@@ -54,6 +101,8 @@ var myChart2 = "projectchart_HousePricesWagesRegression.json";
 var myChart3 = "projectchart_Affordability.json"; 
 var myChart4 = "projectchart_SalesHousesvsGoods.json"; 
 var myChart5 = "projectchart_FirstTimeBuyers.json"; 
+var myChart6 = "projectchart_StampDuty.json"; 
+var myChart7 = "projectchart_unemploy.json"; 
 
 
 vegaEmbed('#Chart1', myChart1);
@@ -61,6 +110,8 @@ vegaEmbed('#Chart2', myChart2);
 vegaEmbed('#Chart3', myChart3);
 vegaEmbed('#Chart4', myChart4);
 vegaEmbed('#Chart5', myChart5);
+vegaEmbed('#Chart6', myChart6);
+vegaEmbed('#Chart7', myChart7);
 
 
 </script>

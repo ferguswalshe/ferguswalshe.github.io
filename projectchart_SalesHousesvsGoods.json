@@ -11,7 +11,7 @@
       "width":500,
       "height":500,
     
-      "config":  {"background": "#fefef0"},
+      "config": {"background": "#FeFeF8", "view": {"stroke": "transparent"}},
   
   
   

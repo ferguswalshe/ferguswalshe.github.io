@@ -24,9 +24,13 @@
 
 <body>
 
-    <a href="project.html" id="link1">Project</a>
- 
-    <a href="index.html" id="link2">Mainpage</a>    
+    <!--links-->
+
+    <div class = "links">   
+        <a href="project.html" class="link" id="link1">Project</a>
+        <a href="index.html" class="link" id="link2">Mainpage</a>
+    </div>
+  
     <!-- A div that contains a group of items for week 1. Can be useful for setting background colours etc.  -->
     <div class="myWeek1">
         <h1>Data Science for Economists.</h1>
@@ -39,6 +43,7 @@
         <h3>Important Issues</h3>
         <p>My second chart looks at the issues the UK population views as important.</p>
         <div class="chart" id="Chart2"> </div>
+    </div>
 
     <div class="myWeek2">
         <h2>Week2</h2>
@@ -51,29 +56,36 @@
         <p>My fourth chart looks at outstanding IMF Lending relative to GDP.</p>
         <div class="chart" id="Chart4"> </div>
 
+    </div>
+
     <div class="myWeek3">
         <h2>Week3</h2>
 
         <h3>Gilt Yields</h3>
-        <p>My fifth chart compares the unemployment rates in Britain and the USA</p>
+        <p>My fifth chart compares the unemployment rates in Britain and the USA.  The data was converted using <a href="https://colab.research.google.com/drive/1-BQGBFXQ7Bi9nyRL9oFNvGn10iKh6o7W?usp=sharing" class="linkcolab" id="link3">colab</a>.</p>
         <div class="chart" id="Chart5"> </div>
 
         <h3>Gilt Yields</h3>
         <p>My sixth chart compares the unemployment rates using a new visualization.  Here a line chart.</p>
         <div class="chart" id="Chart6"> </div>
 
+    </div>
+
     <div class="myWeek4">
         <h2>Week4</h2>
 
         <h3>Premier League Top Goalscorers</h3>
         <p>My seventh chart looks at the top premier league goalscorers of all time.</p>
+        <p>I used <a href="https://colab.research.google.com/drive/1r_WMhEZX07VAVmtQynyUVFOeTTmoD62x?usp=sharing" class="linkcolab" id="link4">colab</a>to do this.</p>
         <div class="chart" id="Chart7"> </div>
+
+    </div>
 
     <div class="myWeek5">
         <h2>Week5</h2>
 
         <h3>ONS API Pensions data</h3>
-        <p>Here I have used an API to collate 9 different data pieces from the ONS about Pensions, then creating 9 charts.</p>
+        <p>Here I have used an API to collate 9 different data pieces from the ONS about Pensions, then creating 9 charts.  I used <a href="https://colab.research.google.com/drive/1Iy26N_lnYiaGG9IBQrOa_brV3lQEp-_x?usp=sharing" class="linkcolab" id="link5">colab</a>to do this. </p>
         <div class = 'grid_items'>
             <div class="grid_items" id="Chart8"></div>
             <div class="grid_items" id="Chart9"></div>
@@ -86,7 +98,9 @@
             <div class="grid_items" id="Chart16"></div>
         </div> 
 
-        <div class="myWeek7">
+    </div>
+
+    <div class="myWeek7">
             <h2>Week7</h2>
     
             <h3>English Parliamentary Constituencies</h3>
@@ -96,6 +110,8 @@
             <h3>Population by EnglishConstituency</h3>
             <p>This chart shows the English Parliamentary Constituencies by Population, in Map form.</p>
             <div class="chart" id="Chart18"> </div>
+
+    </div>
 
         <div class="myWeek8">
             <h2>Week8</h2>
@@ -108,32 +124,38 @@
             <p>This chart supports the argument from the Cryptocurrency talk, that Cryptocurrencies are volatile.</p>
             <div class="chart" id="Chart20"> </div>
 
+        </div>
+    
+
         <div class="myWeek9">
             <h2>Week9</h2>
 
-            <h3>Crypto Talk Chart 1</h3>
-            <p>This chart refutes an argument from the Cryptocurrency talk at the Festival of Economics, that most owners of Cryptocurrencies are not educated.  As the chart depicts, nearly 65% of those surveyed have either an undergraduate (University) education or a Post-Graduate (University Education). </p>
+            <h3>Advanced Chart 1</h3>
+            <p>This is a regression of Median House Prices against Median Weekly Wages in England.  It shows a positive but weak relationship, with Rsquared 0.17.</p>
             <div class="chart" id="Chart21"> </div>
         
-            <h3>Crypto Talk Chart 2</h3>
-            <p>This chart supports the argument from the Cryptocurrency talk, that Cryptocurrencies are volatile.</p>
+            <h3>Advanced Chart 2</h3>
+            <p>This is a dual axis chart showing sales of houses on the left axis against the sales of household goods on the right axis.  These are both plotted against the same time series data.</p>
             <div class="chart" id="Chart22"> </div> 
+        </div>
             
         <div class="myWeek10">
             <h2>Week10</h2>
 
-            <h3>Crypto Talk Chart 1</h3>
-            <p>This chart refutes an argument from the Cryptocurrency talk at the Festival of Economics, that most owners of Cryptocurrencies are not educated.  As the chart depicts, nearly 65% of those surveyed have either an undergraduate (University) education or a Post-Graduate (University Education). </p>
+            <h3>Machine Learning 1</h3>
+            <p>Here I used <a href="https://colab.research.google.com/drive/1nvTzMFxpY74O7UHcmS6C_lyuKAOTjzvS?usp=sharing" class="linkcolab" id="link6">colab</a>to perform component analysis on a collection of household price data.  It organised the data according to constituency as best it could.</p>
             <div class="chart" id="Chart23"> </div>
               
             
             <h2>Week 11</h2>
         
             <h3>Linear Regression on House Price Affordability</h3>
-            <p></p>
+            <p>I performed this regression using <a href="https://colab.research.google.com/drive/1PFYwHzIVkfstd1v_uZCsjY1sq0g4WgMw?usp=sharing" class="linkcolab" id="link7">colab</a></p>
             <img src="Week11.png" alt="PitcherTypes"
              width= "450"
-             height= "400" />            
+             height= "400" />      
+             
+            </div>
 
     </div> 
 

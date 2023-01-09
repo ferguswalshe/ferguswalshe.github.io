@@ -12,7 +12,7 @@
   "width":500,
   "height":500,
 
-  "config":  {"background": "#FeFeF8"},
+  "config": {"background": "#FeFeF8", "view": {"stroke": "transparent"}},
     
 
 "data": {

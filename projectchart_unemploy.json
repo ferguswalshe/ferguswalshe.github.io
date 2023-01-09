@@ -1,7 +1,7 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
     "title": {
-      "text": "Median House Prices vs Median Weekly Wage",
+      "text": "Median House Prices vs Unemployment Rate",
       "subtitle": "By English Constituency (2022).  Source:ONS",
       "subtitleFontStyle": "italic",
       "subtitleFontSize": 10,
@@ -9,12 +9,11 @@
       "color": "black"
     },
     "config": {"background": "#FeFeF8", "view": {"stroke": "transparent"}},
+   
+   
     "data": {
-      "url": "https://raw.githubusercontent.com/ferguswalshe/ferguswalshe.github.io/main/realmedianwagevsmedianhouseprice.csv"
+      "url": "https://raw.githubusercontent.com/ferguswalshe/ferguswalshe.github.io/main/unemployvsmedianhouseprice.csv"
     },
-  
-  
-  
     "height": 500,
     "width": 550,
     "layer": [
@@ -28,16 +27,20 @@
             "title": "MedianHPrice"
           },
           "y": {
-            "field": "MedianWeeklyWage",
+            "field": "UnempConstRate",
             "type": "quantitative",
-            "title": "MedianWeeklyWage"
+            "title": "UnempConstRate"
           },
           "tooltip": [
-            {"field": "ConstituencyName", "type": "ordinal", "title": "ConstituencyName"},
             {
-              "field": "MedianWeeklyWage",
+              "field": "ConstituencyName",
+              "type": "ordinal",
+              "title": "ConstituencyName"
+            },
+            {
+              "field": "UnempConstRate",
               "type": "quantitative",
-              "title": "MedianWeeklyWage",
+              "title": "UnempConstRate",
               "format": ".2f"
             },
             {
@@ -53,21 +56,20 @@
         "mark": {"type": "line", "color": "grey"},
         "transform": [
           {
-            "regression": "MedianWeeklyWage",
+            "regression": "UnempConstRate",
             "on": "MedianHPrice",
-            "extent":[0,1400000]
+            "extent": [0, 1400000]
           }
         ],
         "encoding": {
           "x": {"field": "MedianHPrice", "type": "quantitative"},
-  
-          "y": {"field": "MedianWeeklyWage", "type": "quantitative"}
+          "y": {"field": "UnempConstRate", "type": "quantitative"}
         }
       },
       {
         "transform": [
           {
-            "regression": "MedianWeeklyWage",
+            "regression": "UnempConstRate",
             "on": "MedianHPrice",
             "params": true
           },

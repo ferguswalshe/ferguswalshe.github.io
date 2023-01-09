@@ -10,9 +10,9 @@
       "anchor": "middle",
       "color": "black"
     },
-    "config": {"background": "#FeFeF8"},
+    "config": {"background": "#FeFeF8", "view": {"stroke": "transparent"}},
 
-    "view": {"stroke": "transparent"},
+
   "height": 500,
   "width": 550,
 
